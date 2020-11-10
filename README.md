@@ -17,4 +17,5 @@ int main() {
 
 OUTPUT
 Enter an integer: -7
+
 -7 is odd
